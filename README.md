@@ -86,7 +86,7 @@ and multiple biweekly contest and milestone badges.
 - An advanced EdTech platform built with **ReactJS, MongoDB, Express, and Tailwind CSS**.
 - Offers a responsive UI, secure backend, and modern design.
 - Students can browse and enroll in courses, while instructors can create and manage content.
-- [StudyNotion GitHub Link]()
+- [StudyNotion GitHub Link](https://github.com/ayushsharma3788/studynotion)
 
 ### **AI-Mock Interview**
 - Developed personalized interview questions using the **GEMINI API**.
