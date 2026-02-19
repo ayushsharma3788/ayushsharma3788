@@ -98,7 +98,7 @@ and multiple biweekly contest and milestone badges.
 - PingUp offers core features including user authentication, profiles, posts, likes, comments, friend system, real-time 
 chat, notifications, and media sharing. With a responsive UI and scalable backend, PingUp provides a complete social 
 networking experience where users can connect, share, and interact seamlessly.   
-- [Portfolio Website GitHub Link](https://github.com/ayushsharma3788/pingup-social-media)
+- [Pingup GitHub Link](https://github.com/ayushsharma3788/pingup-social-media)
 
 ### **YouTube Clone**
 - Built a fully responsive YouTube clone using **React.js**.
