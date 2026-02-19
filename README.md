@@ -94,7 +94,7 @@ and multiple biweekly contest and milestone badges.
 - [AI-Mock Interview GitHub Link](https://github.com/ayushsharma3788/AI-mock-interview)
 
 ### **pingup - social media platform**
-- An advanced EdTech platform built with **HTML, Tailwind CSS, javascript(React),MongoDB, Express.js, Node.js**
+- An advanced social media platform built with **HTML, Tailwind CSS, javascript(React),MongoDB, Express.js, Node.js**
 - PingUp offers core features including user authentication, profiles, posts, likes, comments, friend system, real-time 
 chat, notifications, and media sharing. With a responsive UI and scalable backend, PingUp provides a complete social 
 networking experience where users can connect, share, and interact seamlessly.   
